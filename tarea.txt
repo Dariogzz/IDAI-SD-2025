@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title>Mi primera pagina web</title>
+	</head>
+
+	<style>
+		h1{ text-aling:center; }	
+		h3{ color:blue; }	
+	</style> 
+
+
+	<body>
+	
+		<h1>Hola mundo</h1>
+		<h3>Dario Gonzalez</h3>
+		<p>Soy el mejor en  mi clase</p>
+	</body>
+
+</html>
